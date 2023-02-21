@@ -16,4 +16,4 @@ O CatPhotoApp tem as seguintes funcionalidades:
 
 ## Autor
 
-Esse projeto foi criado por [seu nome aqui].
+Este projeto foi criado por Lucas Bomfim. Se quiser entrar em contato, pode me encontrar em lucadez01@gmail.com.
